@@ -2,7 +2,7 @@ import './style.css';
 
 function Header() {
   return ( 
-    <header class="logo">
+    <header className="logo">
       <img src="./Pokemon-Logo.png" alt="logo pokemon"/>
     </header>
   )
